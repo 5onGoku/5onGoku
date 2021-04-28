@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Itsdudehere
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning python,javascript,hardware,networking.
+- 🌱 I’m know python,C,C++,Ruby,html,css,javascript,hardware,networking.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me instagram-https://www.instagram.com/ayush_kunwar_69/
 - 📍 I'm from India 
