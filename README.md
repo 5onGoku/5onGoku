@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Itsdudehere
+- 👋 Hi, I’m @5onGoku
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m know python,C,C++,Ruby,html,css,javascript,hardware,networking.
 - 💞️ I’m looking to collaborate on ...
