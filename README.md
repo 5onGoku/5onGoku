@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m know python,C,C++,Ruby,html,css,javascript,hardware,networking.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me instagram-https://www.instagram.com/ayush_kunwar_69/
+- 📫 How to reach me instagram-https://www.instagram.com/0xgoku_black/
 - 📍 I'm from India 
 
 <!---
