@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @5onGoku
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m know python,C,C++,Ruby,html,css,javascript,hardware,networking.
-- 📫 How to reach me instagram-https://www.instagram.com/0xgoku_black/
+- 🌱 I’m know basics of python,C,C++,Ruby,html,css,javascript,hardware,networking.
+- 📫 How to reach me: Instagram-https://www.instagram.com/0xgoku_black/
 
 <!---
 Itsdudehere/Itsdudehere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
