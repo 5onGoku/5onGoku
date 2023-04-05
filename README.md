@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @5onGoku
 - 👀 I’m interested in cybersecurity
 - 🌱 I am familiar with python,C,C++,Ruby,html,css,javascript,hardware,networking.
-- 📫 How to reach me: https://discordapp/users/611205250203779082
+- 📫 How to reach me: https://discordapp.com/users/611205250203779082
 
 <!---
 Itsdudehere/Itsdudehere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
