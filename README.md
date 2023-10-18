@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a student.<br>🤝 I’m looking for help with cybersecurity.<br>🌱 I’m currently learning Django.<br>💬 Ask me about anything.<br>📫 How to reach me: https://discordapp.com/users/611205250203779082<br>⚡ Fun fact I am a noob.
+🔭 I’m currently a student.<br>🤝 I’m looking for help with cybersecurity.<br>🌱 I’m currently learning Django.<br>💬 Ask me about anything.<br>📫 How to reach me: https://discordapp.com/users/611205250203779082<br>
 
 
 # 💻 Tech Stack:
