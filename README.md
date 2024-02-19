@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a student.<br>🤝 I’m looking for help with cybersecurity.<br>🌱 I’m currently learning Django.<br>💬 Ask me about anything.<br>📫 How to reach me: https://discordapp.com/users/611205250203779082<br>
+🔭 Student.<br>🤝 Intrested in cybersecurity and development.<br>💬 Open to suggestion/conversations on any topic.<br>📫 Reach me on discord: https://discordapp.com/users/611205250203779082<br>
 
 
 # 💻 Tech Stack:
@@ -8,9 +8,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=5onGoku&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=5onGoku&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=5onGoku&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=5onGoku&icon=5&color=12)](https://visitcount.itsvg.in)
